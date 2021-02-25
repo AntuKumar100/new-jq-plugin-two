@@ -1,0 +1,30 @@
+.item img{
+    height: 200px;
+
+}
+.owl-section{
+    padding: 2rem 0;
+}
+/* typed js */
+.type-area{
+    border: 2px red solid;
+}
+.text h2{
+    padding: 2rem 0;
+}
+.type{
+    color: red;
+}
+
+/* AOS  */
+.aos-heading h2{
+    text-align: center;
+    padding: 2rem 0;
+}
+.t-center{
+    margin: 0 auto;
+    padding: 1rem 0;
+    border: 1px gray solid;
+    margin-bottom: 1rem;
+}
+
